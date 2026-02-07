@@ -100,8 +100,8 @@ Machine Learning Models Implemented
 *   Effective for high-dimensional classification problems
     
 
-📊 Model Evaluation Metrics
----------------------------
+Model Evaluation Metrics
+------------------------
 
 Each model is evaluated using:
 
@@ -114,43 +114,39 @@ Each model is evaluated using:
 
 These metrics help determine the most reliable classifier for maternal risk prediction.
 
-📌 Results
-----------
+Results
+-------
 
 The notebook compares multiple models to identify the best-performing algorithm for maternal health risk classification.
 
 (Random Forest and SVM generally provide strong performance for healthcare classification tasks.)
 
-📁 Repository Structure
------------------------
+Repository Structure
+--------------------
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   📦 Maternal-Health-Risk-Classification   ┣ 📜 Maternal_Health_Risk_Classification.ipynb   ┣ 📜 README.md   ┗ 📊 Dataset (if included)   `
+Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   Maternal-Health-Risk-Classification   ┣ 📜 Maternal_Health_Risk_Classification.ipynb   ┣ 📜 README.md   ┗ 📊 Dataset (if included)   `
 
 ▶️ How to Run the Project
 -------------------------
 
 1.  Clone the repository:
     
+git clone https://github.com/Ananya-Baghel/maternal-health-risk-classification.git   
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   git clone https://github.com/your-username/maternal-health-risk-classification.git   `
-
-1.  Navigate into the project folder:
+2.  Navigate into the project folder:
     
+cd maternal-health-risk-classification   
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   cd maternal-health-risk-classification   `
-
-1.  Install required dependencies:
+3.  Install required dependencies:
     
+pip install -r requirements.txt   
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   pip install -r requirements.txt   `
-
-1.  Open the notebook:
+4.  Open the notebook:
     
+jupyter notebook Maternal_Health_Risk_Classification.ipynb   
 
-Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQLGroovyHTMLJavaJavaScriptJSONJSXKotlinLaTeXLessLuaMakefileMarkdownMATLABMarkupObjective-CPerlPHPPowerShell.propertiesProtocol BuffersPythonRRubySass (Sass)Sass (Scss)SchemeSQLShellSwiftSVGTSXTypeScriptWebAssemblyYAMLXML`   jupyter notebook Maternal_Health_Risk_Classification.ipynb   `
-
-🎯 Future Improvements
-----------------------
+Future Improvements
+-------------------
 
 *   Hyperparameter tuning for better accuracy
     
@@ -161,7 +157,7 @@ Plain textANTLR4BashCC#CSSCoffeeScriptCMakeDartDjangoDockerEJSErlangGitGoGraphQL
 *   Adding explainability with SHAP/LIME
     
 
-👩‍💻 Author
-------------
+Author
+------
 
 **Ananya Baghel**Final-year Computer Science Engineering student passionate about AI/ML and Healthcare Applications.
